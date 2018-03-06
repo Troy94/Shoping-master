@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyShoppingList-master-215e8967aff250d87b2fe12b174f22471cb2a3e6.iml" filepath="$PROJECT_DIR$/MyShoppingList-master-215e8967aff250d87b2fe12b174f22471cb2a3e6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
